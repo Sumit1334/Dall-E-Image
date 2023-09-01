@@ -1,4 +1,4 @@
-## DalleImageEdit
+## Dall-E Image Edit
 
 I have developed DALL-E extension for MIT App Inventor and Kodular, which allows you to generate creative and unique images using artificial intelligence. This extension also helps you to create different image variations.
 
